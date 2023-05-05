@@ -1,8 +1,8 @@
---
+---
 title: "What are my systems?"
 date: "2023-05-05"
 description: "Settings goals alone is often not enough for success. You must also work towards them. Systems help you stay on track toward reaching your goals. Today, I am talking about (some of) mine."
---
+---
 
 
 "If you only set your goals well enough, you have already half fulfilled them". 
