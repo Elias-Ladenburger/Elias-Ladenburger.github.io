@@ -1,4 +1,10 @@
 theme: minima
 title: Personal Blog
-author: Elias Kaspar Ladenburger
+author:
+  name: Elias Kaspar Ladenburger
+  email: "blog@eliasladenburger.com": 
 description: A wild mishmash of topics around tech, good communication, freelancing, building communities and being a good person.
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/Elias-Ladenburger" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/elias-ladenburger" }
