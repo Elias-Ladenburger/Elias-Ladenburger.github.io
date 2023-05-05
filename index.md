@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: A blog about tech, life and good communication
 ---
 
 ## About
