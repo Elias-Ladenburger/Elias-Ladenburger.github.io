@@ -1,6 +1,5 @@
 ---
 title: Elias Ladenburger Blog
-author: Elias Ladenburger
 ---
 
 ## About
