@@ -1,5 +1,6 @@
 ---
-title: A blog about tech, life and good communication
+title: Elias Ladenburger Blog
+author: Elias Ladenburger
 ---
 
 ## About
