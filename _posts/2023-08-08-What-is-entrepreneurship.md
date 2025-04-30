@@ -1,5 +1,5 @@
 ---
-title: "What is entrepreneurship?"
+title: "What is Entrepreneurship?"
 date: "2023-08-08"
 description: "Startup coaches and incubator programs have us believe that entrepreneurship is about solving problems and building products. But this is only half the truth."
 ---
