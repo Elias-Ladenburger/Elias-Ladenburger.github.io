@@ -1,0 +1,2 @@
+**Reflection on moderation workshops with young people**
+*Over Whitsun, I regularly give a workshop on moderation, stage presence and communication for young people at the youth media camp. The feedback is always positive, even if the workshop is different every time.
