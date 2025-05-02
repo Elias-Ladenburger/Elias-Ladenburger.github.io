@@ -29,7 +29,13 @@ However, in order to have a precise overview of the project status, a deep under
 In reality, however, this precision in planning is almost impossible to implement, as unforeseen and unforeseeable events always occur: an important team member falls ill, a customer suddenly has a new idea and wants it to be taken into account in development or a competitor launches a comparable product on the market from which it is now necessary to differentiate oneself (see, among others: "The Black Swan" by Nassim Taleb). 
 Delays and rescheduling are part of everyday project management.
 
-An ideal roadmap would reflect all these factors, ideally even planning for them. The difficulty here, however, is that while we humans are very good at estimating immediate tasks (the reader probably has a pretty good idea of what he or she can do today), we are getting worse at predicting our performance in the future - for example, what we can do today in a year's time). The longer a roadmap plans into the future, the more expensive it becomes.
-This inevitably raises the question of the cost/benefit ratio. The time and energy invested in creating a perfect roadmap could ultimately be invested directly in the progress of the project.
+An ideal roadmap would reflect all these factors, ideally even planning for them. 
+The difficulty here, however, is that while we humans are very good at estimating immediate tasks (the reader probably has a pretty good idea of what he or she can do today), we are getting worse at predicting our performance in the future - for example, what we can do today in a year's time). 
+The longer a roadmap plans into the future, the more expensive it becomes.
+
+This inevitably raises the question of the cost/benefit ratio: 
+The time and energy invested in creating a perfect roadmap could ultimately be invested directly in the progress of the project.
+
+So how do we build a roadmap that makes sense for our project?
 
 **Be stubborn on the vision**
