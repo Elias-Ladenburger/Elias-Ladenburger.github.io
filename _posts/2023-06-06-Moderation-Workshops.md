@@ -1,6 +1,8 @@
-**Reflection on moderation workshops with young people**
-
-*For the past years, I used to give a workshop on moderation, stage presence and communication for young people at the youth media camp. The feedback is always positive, even if the workshop is different every time.*
+---
+title: "Reflection on moderation workshops with young people"
+date: "2023-06-06"
+description: "For the past years, I used to give a workshop on moderation, stage presence and communication for young people at the youth media camp. The feedback is always positive, even if the workshop is different every time."
+---
 
 For 29 years, teenagers and young adults have been packing a bunch of technology into a bunch of cars, driving them to Mecklenburg's no man's land and setting up a veritable tent camp there for five days - complete with stage, microphone and their own radio station. The event is called the Youth Media Camp and is supported by a large number of sponsors and volunteers. At the heart of the event are various workshops on the topic of media, which are open to people between the ages of 14 and 27.
 Originally a participant, I have been giving a workshop on moderation there since 2017. I change the focus from year to year so that the workshop remains exciting for me, but the general aim is always the same: to give the people taking part the courage to take to the stage and inspire the audience with their presence for at least one evening.
