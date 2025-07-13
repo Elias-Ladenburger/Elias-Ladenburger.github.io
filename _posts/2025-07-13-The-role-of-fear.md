@@ -14,3 +14,8 @@ At the same time, I want to create “real” value for my customers (or - and t
 
 But here again, I'm afraid. Fear that it won't be worth it financially and that I won't be able to support my family.
 
+Actually this is totally irrational, because I've always failed “forwards” so far. Every now and then I've even succeeded.
+
+What is the best way forward?
+Now that the fear has been recognized, I can consciously act against it. I can consciously try small experiments to keep the financial risk low. 
+And keep reminding myself that I have to overcome my fears in order to become truly successful.
