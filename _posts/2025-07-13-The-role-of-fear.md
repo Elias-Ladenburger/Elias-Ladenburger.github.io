@@ -6,6 +6,7 @@ I became a self-employed IT consultant because I am a fearful person.
 
 So I'm actually just super scared of failure. Which is totally crazy, because at the same time I think I'm pretty competent. But I'm just competent in “soft” things that are difficult to measure. And I have no idea how I can turn that into money, except by selling myself.
 
+
 **But what do I actually want?**
 
 But I actually *want* something completely different: I *want* to build a team. “Build” in the true sense of the word - people should be happier and more “successful” after working with me than before.
@@ -16,6 +17,8 @@ But here again, I'm afraid. Fear that it won't be worth it financially and that 
 
 Actually this is totally irrational, because I've always failed “forwards” so far. Every now and then I've even succeeded.
 
-What is the best way forward?
+
+**What is the best way forward?**
+
 Now that the fear has been recognized, I can consciously act against it. I can consciously try small experiments to keep the financial risk low. 
 And keep reminding myself that I have to overcome my fears in order to become truly successful.
