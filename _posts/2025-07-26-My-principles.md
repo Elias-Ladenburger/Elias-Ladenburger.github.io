@@ -4,8 +4,6 @@ date: "2025-07-26"
 description: "Decisions are necessary, but exhausting. Principles are shortcuts we build for ourselves to make better decisions with more ease."
 ---
 
-# On Decisions and Principles
-
 ## General Thoughts on Decisions and Principles
 
 Decisions are tough. They activate our system 2 thinking (see the wonderful book by Daniel Kahnemann: "Thinking Fast and Slow") and therefore require more energy than our everyday, mundane thought processes.
