@@ -68,4 +68,5 @@ Rules I learned from (painful) experience
   * corrobated by 'leadership style laissez-faire is least effective' (empirical finding, got to check the author) and 'micro-management helped Bob Iger turn Disney World Shanghai into a success' (Robert Iger)
 * use heuristics for low-stakes stuff, keep cognitive bandwidth for high-stakes stuff (e.g. have 'uniforms' for different context so I don't have to think about what to wear)
   * corrobated by System 1 vs. System 2 (Daniel Kahnemann) and always-black-turtleneck Steve Jobs
+* If somebody tells you 'you are exactly what I have been waiting for': RUN! Chances are, you will get burnt by the other party's over-expectations.
 * ...others to follow
